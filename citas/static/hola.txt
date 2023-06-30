@@ -1,0 +1,3 @@
+{% static 'app/assets/css/fontawesome-all.min.css' %}
+
+<link rel="stylesheet" href="css/bootstrap.min.css">
